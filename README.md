@@ -1,7 +1,7 @@
 ## Iman Hosseini
 Avid positivist. Physicist at heart. Retired CTF player. GPUs. HPC Compilers.
 _________________
-Compiler Engineer @ NVIDIA - since 2024
+Compiler Engineer @ NVIDIA - since 2024 </br>
 Computer Science PhD student @ NYU since 2019 in [MESS Lab](https://messlab.moyix.net/), supervised by Brendan Dolan-Gavitt. Got a MS and dropped out in 2024 to join NVIDIA full-time. </br>
 Compiler Engineer Intern @ NVIDIA - summer 2022, summer 2023 then fall 2023 until Feb 2024 which I joined full-time </br>
 I hold BSc degrees in **Theoretical Physics** and **Computer Engineering** from Sharif University (Iran) </br>
