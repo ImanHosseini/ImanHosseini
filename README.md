@@ -1,5 +1,5 @@
 ## Iman Hosseini
-Avid positivist. Physicist at heart. Retired CTF player. Cybersecurity. GPUs. HPC Compilers.
+Avid positivist. Physicist at heart. Retired CTF player. GPUs. HPC Compilers.
 _________________
 Compiler Engineer @ NVIDIA - since 2024
 Computer Science PhD student @ NYU since 2019 in [MESS Lab](https://messlab.moyix.net/), supervised by Brendan Dolan-Gavitt. Got a MS and dropped out in 2024 to join NVIDIA full-time. </br>
