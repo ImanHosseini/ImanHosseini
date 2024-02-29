@@ -1,8 +1,9 @@
 ## Iman Hosseini
 Avid positivist. Physicist at heart. Retired CTF player. Cybersecurity. GPUs. HPC Compilers.
 _________________
-Computer Science PhD student @ NYU since 2019 in [MESS Lab](https://messlab.moyix.net/), supervised by Brendan Dolan-Gavitt </br>
-Compiler Engineer Intern @ NVIDIA - summer 2022 and summer 2023 </br>
+Compiler Engineer @ NVIDIA - since 2024
+Computer Science PhD student @ NYU since 2019 in [MESS Lab](https://messlab.moyix.net/), supervised by Brendan Dolan-Gavitt. Got a MS and dropped out in 2024 to join NVIDIA full-time. </br>
+Compiler Engineer Intern @ NVIDIA - summer 2022, summer 2023 then fall 2023 until Feb 2024 which I joined full-time </br>
 I hold BSc degrees in **Theoretical Physics** and **Computer Engineering** from Sharif University (Iran) </br>
 Gold medalist in National (Iran) **Physics Olympiad** - 2013 </br> 
 As member of team Katzebin, finished 2nd in **DEFCON 30 CTF Finals** in Vegas - 2022 </br>
