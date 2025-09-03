@@ -1,5 +1,5 @@
 ## Iman Hosseini
-Avid positivist. Physicist at heart. Retired CTF player. GPUs. TPUs. HPC and ML Compilers.
+Avid positivist. Physicist at heart. Retired CTF player. GPUs. TPUs. HPC and ML Compilers. https://imanhosseini.github.io/
 _________________
 ML Compiler Engineer @ Google </br>
 HPC Compiler Engineer @ NVIDIA [until Sept 2024] </br>
